@@ -23,13 +23,20 @@ Permissioned access and log-ins for network users Gateway access to the Internet
  ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/1bd434ca-1426-4102-8384-94473483543e)
  3. click on the add gateway 
  ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/47c2e08d-6598-4437-8b07-f213d6f3b8ac)
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/e62ff028-99bc-485e-9808-fbb6e124f8b2)
+
+![1e226d75-1788-4882-99d3-9ff8f8f82ca8](https://github.com/vidhyadharan-03/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/114286357/23e8942a-d653-4822-9c99-6bb3e029a464)
+
 ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/a2e3ae58-6402-49e8-8f96-679059c1842c)
 4. click on the lora options , lora - frequency plan 
-5. click on channel s and create a new channel after which you can add a new end device 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/1fb72be5-e48d-4cde-a329-0cfb0d29070f)
-6. add the attributesin the end device as  shown below 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/00bff30b-42fc-42d5-9540-285d270e41cb)
+
+5. click on channel s and create a new channel after which you can add a new end device
+6. 
+![daf98f7a-b9c4-4ffe-a9fe-9e3aa0948e9b](https://github.com/vidhyadharan-03/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/114286357/0bd89749-f15f-4d6b-ad23-6183890a5528)
+
+7. add the attributesin the end device as  shown below 
+
+ ![085efa8f-d07f-4baa-b482-753588e4a71b](https://github.com/vidhyadharan-03/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/114286357/66bee971-2dfc-4f93-b9ce-c6a42c2c4c31)
+
 7.using AT commands configure end device in serial port utility
 AT Commands to set initially (Mandatory)
  AT+FDR // To do factory data reset
