@@ -44,13 +44,8 @@ AT Commands to set initially (Mandatory)
 To set APP Key
  ATZ // To take effective action on below settings (As like saving)
 
-
-
 ## OUTPUT 
 ![WhatsApp Image 2023-10-28 at 16 05 28_094285f6](https://github.com/BharathCSEIOT/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/122793480/8bba735d-f47e-4551-9bfe-1386be441f29)
 
-
-
 ## Results: 
-
   The Network server and end device for traferring data on the network has been accomplished.
