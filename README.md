@@ -7,8 +7,8 @@
 When working with sensitive applications or files, saving progress on your local device is a start, but what if you lose access to your device? Network servers address this problem by hosting the files and programs most pertinent to the network and enabling access for consistent, real-time use. 
 
 As a result, personnel or network clients can instantly access important data or tools while also facilitating collaboration between users. Multiple users can make changes to the same program or document for continued development over the course of a project. Via a secure login, remote users can connect to the home network.
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/59db9b76-ddd5-4d6a-9075-8db233f5e479)
 
+![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/59db9b76-ddd5-4d6a-9075-8db233f5e479)
 
 In the above graphic, the circle represents an organization network where a network server facilitates collaboration and file sharing between network clients (devices).
 
@@ -23,20 +23,13 @@ Permissioned access and log-ins for network users Gateway access to the Internet
  ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/1bd434ca-1426-4102-8384-94473483543e)
  3. click on the add gateway 
  ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/47c2e08d-6598-4437-8b07-f213d6f3b8ac)
-
-![1e226d75-1788-4882-99d3-9ff8f8f82ca8](https://github.com/vidhyadharan-03/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/114286357/23e8942a-d653-4822-9c99-6bb3e029a464)
-
+![WhatsApp Image 2023-10-28 at 15 52 46_56fb552d](https://github.com/BharathCSEIOT/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/122793480/7da5e5bc-d85a-4a77-b015-49cd930eb3d7)
 ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/a2e3ae58-6402-49e8-8f96-679059c1842c)
 4. click on the lora options , lora - frequency plan 
-
-5. click on channel s and create a new channel after which you can add a new end device
-6. 
-![daf98f7a-b9c4-4ffe-a9fe-9e3aa0948e9b](https://github.com/vidhyadharan-03/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/114286357/0bd89749-f15f-4d6b-ad23-6183890a5528)
-
-7. add the attributesin the end device as  shown below 
-
- ![085efa8f-d07f-4baa-b482-753588e4a71b](https://github.com/vidhyadharan-03/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/114286357/66bee971-2dfc-4f93-b9ce-c6a42c2c4c31)
-
+5. click on channel s and create a new channel after which you can add a new end device 
+![WhatsApp Image 2023-10-28 at 16 14 35_0ed431da](https://github.com/BharathCSEIOT/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/122793480/1bc50b23-35ac-4da6-8e26-c696d350c2ad)
+6. add the attributesin the end device as  shown below 
+![WhatsApp Image 2023-10-28 at 16 00 19_dfc834cd](https://github.com/BharathCSEIOT/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/122793480/57caabdd-0a90-4b74-9448-2fcebec29670)
 7.using AT commands configure end device in serial port utility
 AT Commands to set initially (Mandatory)
  AT+FDR // To do factory data reset
@@ -54,12 +47,10 @@ To set APP Key
 
 
 ## OUTPUT 
-![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
-
+![WhatsApp Image 2023-10-28 at 16 05 28_094285f6](https://github.com/BharathCSEIOT/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/122793480/8bba735d-f47e-4551-9bfe-1386be441f29)
 
 
 
 ## Results: 
 
   The Network server and end device for traferring data on the network has been accomplished.
-
